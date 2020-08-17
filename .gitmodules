@@ -1,0 +1,3 @@
+[submodule "frontend/flutter-web/facebook_ui"]
+	path = frontend/flutter-web/facebook_ui
+	url = https://github.com/serjoca/flutter_web_facebook_ui
